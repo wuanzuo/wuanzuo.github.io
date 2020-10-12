@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wuanzuo.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-10-12T14:54:29.374Z</updated>
+    <title>learn</title>
+    <updated>2020-10-12T15:10:49.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wuanzuo.github.io"/>
     <link rel="self" href="https://wuanzuo.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>知行合一</subtitle>
     <logo>https://wuanzuo.github.io/images/avatar.png</logo>
     <icon>https://wuanzuo.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, learn</rights>
     <entry>
         <title type="html"><![CDATA[情人]]></title>
         <id>https://wuanzuo.github.io/post/qing-ren/</id>
@@ -26,15 +26,6 @@
         </link>
         <updated>2020-10-11T09:06:35.000Z</updated>
         <content type="html"><![CDATA[<p>cip</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jwqh]]></title>
-        <id>https://wuanzuo.github.io/post/jwqh/</id>
-        <link href="https://wuanzuo.github.io/post/jwqh/">
-        </link>
-        <updated>2020-10-11T09:05:03.000Z</updated>
-        <content type="html"><![CDATA[<p>jdh</p>
 ]]></content>
     </entry>
     <entry>
