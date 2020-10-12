@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://coding-pages-bucket-3480093-7969772-2516-339943-1303071493.cos-website.ap-hongkong.myqcloud.com</id>
+    <id>https://wuanzuo.github.io</id>
     <title>Gridea</title>
-    <updated>2020-10-11T09:07:36.737Z</updated>
+    <updated>2020-10-12T10:49:34.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://coding-pages-bucket-3480093-7969772-2516-339943-1303071493.cos-website.ap-hongkong.myqcloud.com"/>
-    <link rel="self" href="https://coding-pages-bucket-3480093-7969772-2516-339943-1303071493.cos-website.ap-hongkong.myqcloud.com/atom.xml"/>
+    <link rel="alternate" href="https://wuanzuo.github.io"/>
+    <link rel="self" href="https://wuanzuo.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://coding-pages-bucket-3480093-7969772-2516-339943-1303071493.cos-website.ap-hongkong.myqcloud.com/images/avatar.png</logo>
-    <icon>https://coding-pages-bucket-3480093-7969772-2516-339943-1303071493.cos-website.ap-hongkong.myqcloud.com/favicon.ico</icon>
+    <logo>https://wuanzuo.github.io/images/avatar.png</logo>
+    <icon>https://wuanzuo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
-        <id>https://coding-pages-bucket-3480093-7969772-2516-339943-1303071493.cos-website.ap-hongkong.myqcloud.com/post/ce-shi/</id>
-        <link href="https://coding-pages-bucket-3480093-7969772-2516-339943-1303071493.cos-website.ap-hongkong.myqcloud.com/post/ce-shi/">
+        <id>https://wuanzuo.github.io/post/ce-shi/</id>
+        <link href="https://wuanzuo.github.io/post/ce-shi/">
         </link>
         <updated>2020-10-11T09:06:35.000Z</updated>
         <content type="html"><![CDATA[<p>cip</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[jwqh]]></title>
-        <id>https://coding-pages-bucket-3480093-7969772-2516-339943-1303071493.cos-website.ap-hongkong.myqcloud.com/post/jwqh/</id>
-        <link href="https://coding-pages-bucket-3480093-7969772-2516-339943-1303071493.cos-website.ap-hongkong.myqcloud.com/post/jwqh/">
+        <id>https://wuanzuo.github.io/post/jwqh/</id>
+        <link href="https://wuanzuo.github.io/post/jwqh/">
         </link>
         <updated>2020-10-11T09:05:03.000Z</updated>
         <content type="html"><![CDATA[<p>jdh</p>
@@ -30,8 +30,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://coding-pages-bucket-3480093-7969772-2516-339943-1303071493.cos-website.ap-hongkong.myqcloud.com/post/hello-gridea/</id>
-        <link href="https://coding-pages-bucket-3480093-7969772-2516-339943-1303071493.cos-website.ap-hongkong.myqcloud.com/post/hello-gridea/">
+        <id>https://wuanzuo.github.io/post/hello-gridea/</id>
+        <link href="https://wuanzuo.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
