@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://e.coding.net/rsww/rsww/rsww.git</id>
-    <title>learn</title>
-    <updated>2020-10-12T16:15:16.386Z</updated>
+    <title>學</title>
+    <updated>2020-10-13T13:11:07.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://e.coding.net/rsww/rsww/rsww.git"/>
     <link rel="self" href="https://e.coding.net/rsww/rsww/rsww.git/atom.xml"/>
     <subtitle>知行合一</subtitle>
     <logo>https://e.coding.net/rsww/rsww/rsww.git/images/avatar.png</logo>
     <icon>https://e.coding.net/rsww/rsww/rsww.git/favicon.ico</icon>
-    <rights>All rights reserved 2020, learn</rights>
+    <rights>All rights reserved 2020, 學</rights>
     <entry>
         <title type="html"><![CDATA[情人]]></title>
         <id>https://e.coding.net/rsww/rsww/rsww.git/post/qing-ren/</id>
