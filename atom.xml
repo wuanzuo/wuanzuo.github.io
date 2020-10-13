@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wuanzuo.github.io</id>
     <title>學</title>
-    <updated>2020-10-13T14:08:07.308Z</updated>
+    <updated>2020-10-13T15:06:25.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wuanzuo.github.io"/>
     <link rel="self" href="https://wuanzuo.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://wuanzuo.github.io/images/avatar.png</logo>
     <icon>https://wuanzuo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 學</rights>
+    <entry>
+        <title type="html"><![CDATA[Apple 2020 十月新品发布会]]></title>
+        <id>https://wuanzuo.github.io/post/apple-2020-shi-yue-xin-pin-fa-bu-hui/</id>
+        <link href="https://wuanzuo.github.io/post/apple-2020-shi-yue-xin-pin-fa-bu-hui/">
+        </link>
+        <updated>2020-10-13T14:55:08.000Z</updated>
+        <content type="html"><![CDATA[<p>时间:北京时间 10 月 14 日凌晨 1 点<img src="https://wuanzuo.github.io/post-images/1602601073180.webp" alt="" loading="lazy"><br>
+边框更窄，刘海更小<br>
+<img src="https://wuanzuo.github.io/post-images/1602601433956.webp" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[情人]]></title>
         <id>https://wuanzuo.github.io/post/qing-ren/</id>
