@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wuanzuo.github.io</id>
     <title>學</title>
-    <updated>2020-10-14T12:56:21.764Z</updated>
+    <updated>2020-10-15T13:45:18.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wuanzuo.github.io"/>
     <link rel="self" href="https://wuanzuo.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://wuanzuo.github.io/images/avatar.png</logo>
     <icon>https://wuanzuo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 學</rights>
+    <entry>
+        <title type="html"><![CDATA[用一生来学习艺术]]></title>
+        <id>https://wuanzuo.github.io/post/yong-yi-sheng-lai-xue-xi-yi-zhu/</id>
+        <link href="https://wuanzuo.github.io/post/yong-yi-sheng-lai-xue-xi-yi-zhu/">
+        </link>
+        <updated>2020-10-15T13:42:40.000Z</updated>
+        <content type="html"><![CDATA[<p>文字是用来读的，不是用来看的。看起来黑鸦鸦的一片，都是方块字，念起来就大不相同。诗不光是押韵，还有韵律；散文也有节奏的快慢，或低沉压抑，沉痛无比，或如黄钟大吕，回肠荡气——这才是文字的筋骨所在</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[念奴娇·昆仑]]></title>
+        <id>https://wuanzuo.github.io/post/nian-nu-jiao-kun-lun/</id>
+        <link href="https://wuanzuo.github.io/post/nian-nu-jiao-kun-lun/">
+        </link>
+        <updated>2020-10-15T13:40:57.000Z</updated>
+        <content type="html"><![CDATA[<p>横空出世，莽昆仑，阅尽人间春色。 　　<br>
+飞起玉龙三百万，搅得周天寒彻。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[球状闪电]]></title>
         <id>https://wuanzuo.github.io/post/qiu-zhuang-shan-dian/</id>
