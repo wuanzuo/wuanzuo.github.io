@@ -1,102 +1,108 @@
-
-<!DOCTYPE html>
 <html>
-  <head>
-    
-<meta charset="utf-8" >
+<head>
+    <meta charset="utf-8"/>
+<meta name="description" content=""/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
 <title>                                        尾生之信 | 學</title>
-<meta name="description" content="知行合一">
 
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+<link rel="shortcut icon" href="https://wuanzuo.github.io/favicon.ico?v=1602852611928">
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://e.coding.net/rsww/rsww/rsww.git/favicon.ico?v=1602852203394">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-<link rel="stylesheet" href="https://e.coding.net/rsww/rsww/rsww.git/styles/main.css">
+<link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://wuanzuo.github.io/styles/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/dist/css/bootstrap.min.css">
+
+<script src="https://cdn.jsdelivr.net/npm/@highlightjs/cdn-assets/highlight.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/dockerfile.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/dart.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/moment@2.27.0/moment.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/dist/js/bootstrap.min.js"></script>
+<!-- DEMO JS -->
+<!--<script src="media/scripts/index.js"></script>-->
 
 
 
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-
-
-
-  </head>
-  <body>
-    <div id="app" class="main">
-      <div class="site-header-container">
-  <div class="site-header">
-    <div class="left">
-      <a href="https://e.coding.net/rsww/rsww/rsww.git">
-        <img class="avatar" src="https://e.coding.net/rsww/rsww/rsww.git/images/avatar.png?v=1602852203394" alt="" width="32px" height="32px">
-      </a>
-      <a href="https://e.coding.net/rsww/rsww/rsww.git">
-        <h1 class="site-title">學</h1>
-      </a>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.css">
+</head>
+<body>
+<div class="main gt-bg-theme-color-first">
+    <nav class="navbar navbar-expand-lg">
+    <div class="navbar-brand">
+        <img class="user-avatar" src="/images/avatar.png" alt="头像">
+        <div class="site-name gt-c-content-color-first">
+            學
+        </div>
     </div>
-    <div class="right">
-      <transition name="fade">
-        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
-      </transition>
-    </div>
-  </div>
-</div>
-
-<transition name="fade">
-  <div class="menu-container" style="display: none;" v-show="menuVisible">
-    <div class="menu-list">
-      
-        
-          <a href="/" class="menu purple-link">
-            首页
-          </a>
-        
-      
-        
-          <a href="/archives" class="menu purple-link">
-            归档
-          </a>
-        
-      
-        
-          <a href="/tags" class="menu purple-link">
-            标签
-          </a>
-        
-      
-        
-          <a href="/post/about" class="menu purple-link">
-            关于
-          </a>
-        
-      
-    </div>
-  </div>
-</transition>
-
-
-      <div class="content-container">
-        <div class="post-detail">
-          
-          <h2 class="post-title">                                        尾生之信</h2>
-          <div class="post-info post-detail-info">
-            <span><i class="icon-calendar-outline"></i> 2020-10-15</span>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <i class="fas fa-bars gt-c-content-color-first" style="font-size: 18px"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="navbar-nav mr-auto" style="text-align: center">
             
-              <span>
-                <i class="icon-pricetags-outline"></i>
-                
-                  <a href="https://e.coding.net/rsww/rsww/rsww.git/tag/aQ-VLSGTC/">
-                    故事新编
+                <div class="nav-item">
                     
-                  </a>
-                
-              </span>
+                        <a href="/" class="menu gt-a-link">
+                            首页
+                        </a>
+                    
+                </div>
             
-          </div>
-          <div class="post-content">
-            <p>尾生从刚才起就伫立桥下，一直在等待女人到来。</p>
+                <div class="nav-item">
+                    
+                        <a href="/archives" class="menu gt-a-link">
+                            归档
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="/tags" class="menu gt-a-link">
+                            标签
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="/post/about" class="menu gt-a-link">
+                            关于
+                        </a>
+                    
+                </div>
+            
+        </div>
+        <div style="text-align: center">
+            <form id="gridea-search-form" style="position: relative" data-update="1602852611928" action="/search/index.html">
+                <input class="search-input" autocomplete="off" spellcheck="false" name="q" placeholder="搜索文章" />
+                <i class="fas fa-search gt-c-content-color-first" style="position: absolute; top: 9px; left: 10px;"></i>
+            </form>
+        </div>
+    </div>
+</nav>
+
+    <div class="post-container">
+        <div class="post-detail gt-bg-theme-color-second">
+            <article class="gt-post-content">
+                <h2 class="post-title">
+                                                            尾生之信
+                </h2>
+                <div class="post-info">
+                    <time class="post-time gt-c-content-color-first">
+                        · 2020-10-15 ·
+                    </time>
+                    
+                        <a href="https://wuanzuo.github.io/tag/aQ-VLSGTC/" class="post-tags">
+                            # 故事新编
+                        </a>
+                    
+                </div>
+                <div class="post-content">
+                    <p>尾生从刚才起就伫立桥下，一直在等待女人到来。</p>
 <p>抬眼看去，高高的石桥栏上，蔓草已爬了半截。缝隙间不时闪现来往行人的素衣下摆，被鲜红的落日映照着，随风悠然飘动，女人却仍未到来。</p>
 <p>尾生一边轻吹哨，一边在桥下悠然自得地展望河滩沙洲。</p>
 <p>桥下的沙洲只剩了四铺席大小，已被河水包围。芦苇丛生的水边，或许是螃蟹的栖身之所，洞开着许多圆孔。每当波浪拍岸时，便发出轻微的嗒噢嗒璞声二女人却仍未到来。</p>
@@ -112,57 +118,56 @@
 <p>夜半，月光洒满河道中的苇丛和柳梢。河水与微风窃窃私语着，将桥下尾生的尸体款款送向大海。然而尾生的魂魄却像在恋慕当空的明月，悄然脱离尸骸，向着微明天空的远方朗朗飘升。又仿佛水气和草香，默默地笼罩着河面……</p>
 <p>此后星移斗转数千年，那魂魄历经无数颠沛流离，又不得不托牛于人世之间，栖宿于我的体内。因此，虽然我转生于现代却一事无成，过着昼夜不分、梦里梦外的日子，痴情苦等似将到来的神妙尤物。正如尾生在薄暮中桥栏下，痴等那永不到来的恋人一样。</p>
 
-          </div>
+                </div>
+            </article>
         </div>
 
         
-          <div class="next-post">
-            <a class="purple-link" href="https://e.coding.net/rsww/rsww/rsww.git/post/xue-hou-si-xue-yi-si/">
-              <h3 class="post-title">
-                下一篇：学后思 学以思
-              </h3>
-            </a>
-          </div>
-          
-      </div>
+            <div class="next-post">
+                <div class="next gt-c-content-color-first">下一篇</div>
+                <a href="https://wuanzuo.github.io/post/xue-hou-si-xue-yi-si/" class="post-title gt-a-link">
+                    学后思 学以思
+                </a>
+            </div>
+        
 
-      
+        
 
-      <div class="site-footer">
-  <div class="slogan">知行合一</div>
-  <div class="social-container">
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://e.coding.net/rsww/rsww/rsww.git/atom.xml" target="_blank">RSS</a>
+        
+
+        
+
+        <div class="site-footer gt-c-content-color-first">
+    <div class="slogan gt-c-content-color-first">知行合一</div>
+    <div class="social-container">
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    </div>
+    <div class="footer-info">
+        Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+    </div>
+    <div>
+        Theme by <a href="https://imhanjie.com/" target="_blank">imhanjie</a>, Powered by <a
+                href="https://github.com/getgridea/gridea" target="_blank">Gridea | <a href="https://wuanzuo.github.io/atom.xml" target="_blank">RSS</a></a>
+    </div>
 </div>
 
-
-    </div>
-    <script type="application/javascript">
-
-hljs.initHighlightingOnLoad()
-
-var app = new Vue({
-  el: '#app',
-  data: {
-    menuVisible: false,
-  },
-})
-
+<script>
+  hljs.initHighlightingOnLoad()
 </script>
 
-
-
-
-  </body>
+    </div>
+</div>
+</body>
 </html>
