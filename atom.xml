@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wuanzuo.github.io</id>
+    <id>https://e.coding.net/rsww/rsww/rsww.git</id>
     <title>學</title>
-    <updated>2020-10-16T06:11:07.231Z</updated>
+    <updated>2020-10-16T07:46:46.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wuanzuo.github.io"/>
-    <link rel="self" href="https://wuanzuo.github.io/atom.xml"/>
+    <link rel="alternate" href="https://e.coding.net/rsww/rsww/rsww.git"/>
+    <link rel="self" href="https://e.coding.net/rsww/rsww/rsww.git/atom.xml"/>
     <subtitle>知行合一</subtitle>
-    <logo>https://wuanzuo.github.io/images/avatar.png</logo>
-    <icon>https://wuanzuo.github.io/favicon.ico</icon>
+    <logo>https://e.coding.net/rsww/rsww/rsww.git/images/avatar.png</logo>
+    <icon>https://e.coding.net/rsww/rsww/rsww.git/favicon.ico</icon>
     <rights>All rights reserved 2020, 學</rights>
     <entry>
         <title type="html"><![CDATA[                                        尾生之信]]></title>
-        <id>https://wuanzuo.github.io/post/wei-sheng-zhi-xin/</id>
-        <link href="https://wuanzuo.github.io/post/wei-sheng-zhi-xin/">
+        <id>https://e.coding.net/rsww/rsww/rsww.git/post/wei-sheng-zhi-xin/</id>
+        <link href="https://e.coding.net/rsww/rsww/rsww.git/post/wei-sheng-zhi-xin/">
         </link>
         <updated>2020-10-15T14:54:19.000Z</updated>
         <content type="html"><![CDATA[<p>尾生从刚才起就伫立桥下，一直在等待女人到来。</p>
@@ -35,8 +35,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[学后思 学以思]]></title>
-        <id>https://wuanzuo.github.io/post/xue-hou-si-xue-yi-si/</id>
-        <link href="https://wuanzuo.github.io/post/xue-hou-si-xue-yi-si/">
+        <id>https://e.coding.net/rsww/rsww/rsww.git/post/xue-hou-si-xue-yi-si/</id>
+        <link href="https://e.coding.net/rsww/rsww/rsww.git/post/xue-hou-si-xue-yi-si/">
         </link>
         <updated>2020-10-15T14:40:04.000Z</updated>
         <content type="html"><![CDATA[<p>学而不思则罔，思而不学则殆</p>
@@ -44,8 +44,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[用一生来学习艺术]]></title>
-        <id>https://wuanzuo.github.io/post/yong-yi-sheng-lai-xue-xi-yi-zhu/</id>
-        <link href="https://wuanzuo.github.io/post/yong-yi-sheng-lai-xue-xi-yi-zhu/">
+        <id>https://e.coding.net/rsww/rsww/rsww.git/post/yong-yi-sheng-lai-xue-xi-yi-zhu/</id>
+        <link href="https://e.coding.net/rsww/rsww/rsww.git/post/yong-yi-sheng-lai-xue-xi-yi-zhu/">
         </link>
         <updated>2020-10-15T13:42:40.000Z</updated>
         <content type="html"><![CDATA[<p>文字是用来读的，不是用来看的。看起来黑鸦鸦的一片，都是方块字，念起来就大不相同。诗不光是押韵，还有韵律；散文也有节奏的快慢，或低沉压抑，沉痛无比，或如黄钟大吕，回肠荡气——这才是文字的筋骨所在</p>
@@ -53,8 +53,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[念奴娇·昆仑]]></title>
-        <id>https://wuanzuo.github.io/post/nian-nu-jiao-kun-lun/</id>
-        <link href="https://wuanzuo.github.io/post/nian-nu-jiao-kun-lun/">
+        <id>https://e.coding.net/rsww/rsww/rsww.git/post/nian-nu-jiao-kun-lun/</id>
+        <link href="https://e.coding.net/rsww/rsww/rsww.git/post/nian-nu-jiao-kun-lun/">
         </link>
         <updated>2020-10-15T13:40:57.000Z</updated>
         <content type="html"><![CDATA[<p>横空出世，莽昆仑，阅尽人间春色。 　　<br>
@@ -63,8 +63,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[球状闪电]]></title>
-        <id>https://wuanzuo.github.io/post/qiu-zhuang-shan-dian/</id>
-        <link href="https://wuanzuo.github.io/post/qiu-zhuang-shan-dian/">
+        <id>https://e.coding.net/rsww/rsww/rsww.git/post/qiu-zhuang-shan-dian/</id>
+        <link href="https://e.coding.net/rsww/rsww/rsww.git/post/qiu-zhuang-shan-dian/">
         </link>
         <updated>2020-10-14T12:50:38.000Z</updated>
         <content type="html"><![CDATA[<p>今天是我的生日，直到晚上爸妈点上了生日蛋糕的蜡烛，我们三个围着十四个小火苗坐下来，我才想起这事</p>
@@ -72,19 +72,19 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple 2020 十月新品发布会]]></title>
-        <id>https://wuanzuo.github.io/post/apple-2020-shi-yue-xin-pin-fa-bu-hui/</id>
-        <link href="https://wuanzuo.github.io/post/apple-2020-shi-yue-xin-pin-fa-bu-hui/">
+        <id>https://e.coding.net/rsww/rsww/rsww.git/post/apple-2020-shi-yue-xin-pin-fa-bu-hui/</id>
+        <link href="https://e.coding.net/rsww/rsww/rsww.git/post/apple-2020-shi-yue-xin-pin-fa-bu-hui/">
         </link>
         <updated>2020-10-13T14:55:08.000Z</updated>
-        <content type="html"><![CDATA[<p>时间:北京时间 10 月 14 日凌晨 1 点<img src="https://wuanzuo.github.io/post-images/1602601073180.webp" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<p>时间:北京时间 10 月 14 日凌晨 1 点<img src="https://e.coding.net/rsww/rsww/rsww.git/post-images/1602601073180.webp" alt="" loading="lazy"><br>
 边框更窄，刘海更小<br>
-<img src="https://wuanzuo.github.io/post-images/1602601433956.webp" alt="" loading="lazy"></p>
+<img src="https://e.coding.net/rsww/rsww/rsww.git/post-images/1602601433956.webp" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[情人]]></title>
-        <id>https://wuanzuo.github.io/post/qing-ren/</id>
-        <link href="https://wuanzuo.github.io/post/qing-ren/">
+        <id>https://e.coding.net/rsww/rsww/rsww.git/post/qing-ren/</id>
+        <link href="https://e.coding.net/rsww/rsww/rsww.git/post/qing-ren/">
         </link>
         <updated>2020-10-12T14:48:29.000Z</updated>
         <content type="html"><![CDATA[<p>我已经老了，有一天，在一处公共场所的大厅里，有一个男人向我走来。他主动介绍自己，他对我说：“我认识你，永远记得你。那时候，你还很年轻，人人都说你美，现在，我是特为来告诉你，对我来说，我觉得现在你比年轻的时候更美，那时你是年轻女人，与你那时的面貌相比，我更爱你现在备受摧残的面容。</p>
