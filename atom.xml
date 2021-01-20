@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wuanzuo.github.io</id>
     <title>學</title>
-    <updated>2020-11-02T15:54:09.507Z</updated>
+    <updated>2021-01-20T05:19:09.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wuanzuo.github.io"/>
     <link rel="self" href="https://wuanzuo.github.io/atom.xml"/>
     <subtitle>知行合一</subtitle>
     <logo>https://wuanzuo.github.io/images/avatar.png</logo>
     <icon>https://wuanzuo.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 學</rights>
+    <rights>All rights reserved 2021, 學</rights>
     <entry>
         <title type="html"><![CDATA[OneDrive挂载]]></title>
         <id>https://wuanzuo.github.io/post/onedrive-gua-zai/</id>
@@ -17,8 +17,8 @@
         </link>
         <updated>2020-11-02T15:36:13.000Z</updated>
         <content type="html"><![CDATA[<p>onemanager<br>
-https://yunopen.herokuapp.com/dian/<br>
-https://service-6tv4o6yq-1303071493.gz.apigw.tencentcs.com/release/oneman/<br>
+https://heromo.herokuapp.com/<br>
+https://service-pp3m7bho-1303071493.gz.apigw.tencentcs.com/release/oneman/acg/<br>
 fodi<br>
 https://zyun-ai.github.io/</p>
 ]]></content>
